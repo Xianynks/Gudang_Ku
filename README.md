@@ -1,1 +1,3 @@
-# Gudang_Ku
+# GudangKu
+
+Website Inventory Management System
